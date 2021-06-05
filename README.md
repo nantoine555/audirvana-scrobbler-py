@@ -4,8 +4,8 @@ To make it work:
 
 1) Modify the paths in scrobble.py
 
-lastScrobbleFilePath = "/<CHANGE ME>/lastScrobbleFile.txt"
-dbFilePath = "/<CHANGE ME>/AudirvanaPlusDatabaseV2.sqlite"
+lastScrobbleFilePath = "/CHANGE ME 1/lastScrobbleFile.txt"
+dbFilePath = "/CHANGE ME 2/AudirvanaPlusDatabaseV2.sqlite"
   
 The last Scrobble is a simple .txt file that is used to store the last scrobble time, to prevent a full database scan
 The dbFilePath is by default on a mac: 
@@ -15,10 +15,10 @@ The dbFilePath is by default on a mac:
   
 Go to the last.FM Api page, register an API Account and fill the informations
 #https://www.last.fm/api
-ApiKey = "<CHANGE ME>"
-ApiSecret = "<CHANGE ME>"
-ApiUser = "<CHANGE ME>"
-ApiPwd = pylast.md5("<CHANGE ME>")
+ApiKey = "CHANGE MY Api Key"
+ApiSecret = "CHANGE MY Api Secret"
+ApiUser = "CHANGE My Ap User"
+ApiPwd = pylast.md5("CHANGE MY Api Password")
   
 2) i have provided an install.sh script that installs python 3.9.5 (on a mac) but you will need the following Python libs:
 
