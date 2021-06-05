@@ -31,9 +31,10 @@ pip3 install certifi --user
 
  Disclaimers:
  
-- BACKUP YOUR DATA
+- BACKUP YOUR DATA (It won't touch your music files, just the Audirvana database) 
 - NOT TESTED ON WINDOWS
 - NOT TESTED ON ANOTHER MAC
 - I WON’T PROVIDE 24x7 SUPPORT :wink:
+- IT IS UNSUPPORTED BY DAMIEN/ANY AUDIRVANA PEOPLE (of course I will retire this if they offer native Last.FM Scrobbling in Audirvana Studio)
 
 Do not complain if it destroys your database. I’m making a copy from the mac NVME disk to another ssd before reading the data, and so far no problem, but, sh*t happens, and if you are not at ease with computers, scripts and programming this thing may not be for you.
