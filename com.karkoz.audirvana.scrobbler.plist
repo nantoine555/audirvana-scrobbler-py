@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disabled</key>
+	<false/>
+	<key>KeepAlive</key>
+	<false/>
+	<key>Label</key>
+	<string>com.karkoz.audirvana.scrobbler</string>
+	<key>Program</key>
+	<string>/Users/antoine/bin/scrobble.app/Contents/MacOS/Application Stub</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/tmp/com.karkoz.audirvana.scrobbler.error.txt</string>
+	<key>StandardOutPath</key>
+	<string>/tmp/com.karkoz.audirvana.scrobbler.out.txt</string>
+	<key>StartInterval</key>
+	<integer>900</integer>
+</dict>
+</plist>
