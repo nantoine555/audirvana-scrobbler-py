@@ -28,3 +28,12 @@ pip3 install certifi --user
  3) Catalina messed up my plist scheduler, but I used Automator to create a new Application that runs a shell script:
  /bin/sh -c "exec $HOME/bin/scrobble.sh"
  
+
+ Disclaimers:
+ 
+- BACKUP YOUR DATA
+- NOT TESTED ON WINDOWS
+- NOT TESTED ON ANOTHER MAC
+- I WON’T PROVIDE 24x7 SUPPORT :wink:
+
+Do not complain if it destroys your database. I’m making a copy from the mac NVME disk to another ssd before reading the data, and so far no problem, but, sh*t happens, and if you are not at ease with computers, scripts and programming this thing may not be for you.
